@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi! I'm Anna 👋
 
-<!--
-**AnnaNovin/annanovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate a software developer, I work in Computer Vision and Graphics team 
 
-Here are some ideas to get you started:
+In my free time I explore a diverse array of subjects, you can check them out here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning Goals
+
+- Kubernetes
+- Multithreading
+- AWS Cloud
+
+
+### 🚀 Tech Stack
+
+- Python 🐍 
+- C++  
+- C  
+- Linux 🐧 
+- Docker 🐳
+
