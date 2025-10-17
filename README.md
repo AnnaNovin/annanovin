@@ -8,9 +8,9 @@ When I'm not coding, you'll probably find me **riding horses 🐎**.
 
 ### 🚀 Learning Goals
 
+- GCP
 - Kubernetes
 - Multithreading
-- AWS Cloud
 
 
 ### 💻 Tech Stack
